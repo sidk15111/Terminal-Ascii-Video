@@ -8,7 +8,7 @@ to a retro feeling video using only ASCII characters.
 - Libraries: opencv-python , numpy
 
 
-'''console
+'''
 $ pip install opencv-python
 pip install numpy 
 '''
