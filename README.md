@@ -1,1 +1,12 @@
-this is a test readme to see how push works
+# Terminal ASCII Video Player
+
+Python program that converts video frame by frame live in the terminal
+to a retro feeling video using only ASCII characters.
+
+## Requirements
+- Python 3.x
+- Libraries: opencv-python , numpy
+
+<pre> ''' bash $ pip install opencv-python
+pip install numpy '''
+</pre>
